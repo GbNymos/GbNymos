@@ -26,6 +26,7 @@ Minha curiosidade com tecnologia começou de forma autodidata — tutoriais, doc
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-6A3FA0?style=for-the-badge&logo=microsoftsqlserver&logoColor=E9DDC3)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6A3FA0?style=for-the-badge&logo=postgresql&logoColor=E9DDC3)
 ![N8N](https://img.shields.io/badge/n8n-6A3FA0?style=for-the-badge&logo=n8n&logoColor=E9DDC3)
+![Docker](https://img.shields.io/badge/Docker-6A3FA0?style=for-the-badge&logo=docker&logoColor=E9DDC3)
 ![HTML](https://img.shields.io/badge/HTML5-6A3FA0?style=for-the-badge&logo=html5&logoColor=E9DDC3)
 ![CSS](https://img.shields.io/badge/CSS3-6A3FA0?style=for-the-badge&logo=css3&logoColor=E9DDC3)
 ![Git](https://img.shields.io/badge/Git-6A3FA0?style=for-the-badge&logo=git&logoColor=E9DDC3)
