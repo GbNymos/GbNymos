@@ -29,6 +29,7 @@ Minha curiosidade com tecnologia começou de forma autodidata — tutoriais, doc
 ![HTML](https://img.shields.io/badge/HTML5-6A3FA0?style=for-the-badge&logo=html5&logoColor=E9DDC3)
 ![CSS](https://img.shields.io/badge/CSS3-6A3FA0?style=for-the-badge&logo=css3&logoColor=E9DDC3)
 ![Git](https://img.shields.io/badge/Git-6A3FA0?style=for-the-badge&logo=git&logoColor=E9DDC3)
+![Linux](https://img.shields.io/badge/Linux-6A3FA0?style=for-the-badge&logo=linux&logoColor=E9DDC3)
 
 ---
 
